@@ -1,0 +1,222 @@
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\DnsClient.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Google.Authenticator.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\QRCoder.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\Snappier.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MailKit.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\MimeKit.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\Downloads\Kounta (2)\Kounta\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\DnsClient.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Google.Authenticator.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MailKit.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MimeKit.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\QRCoder.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Snappier.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\DinkToPdf.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\registration-login-api\WebApi\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\DnsClient.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Google.Authenticator.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MailKit.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MimeKit.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\QRCoder.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Snappier.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\itextsharp.dll
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\publish\web.config
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\publish\WebApi.deps.json
+C:\Users\OEM\OneDrive\Desktop\BCom IS\3rd Year\IS Project\Kounta\Final React\backend\api_kounta\WebApi\bin\Debug\net7.0\publish\WebApi.runtimeconfig.json
